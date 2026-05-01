@@ -8,7 +8,7 @@ This project goes beyond a traditional portfolio by combining **creative design,
 
 ## 🌟 Preview
 
-![Portfolio Preview](public/images/preview.png)
+![Portfolio Preview](preview.png)
 
 ---
 
